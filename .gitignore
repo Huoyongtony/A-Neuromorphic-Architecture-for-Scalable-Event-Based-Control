@@ -1,0 +1,6 @@
+__pycache__/
+figures/
+animations_only_HCO_2/
+snake_pattern/
+snake_pattern_supervisory/
+*.html
